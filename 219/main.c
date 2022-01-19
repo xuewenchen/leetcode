@@ -15,7 +15,7 @@ int main() {
     bool ok = diff(nums, length, k); 
     printf("%d\n", ok);
 
-	return 0;
+    return 0;
 }
 
 
